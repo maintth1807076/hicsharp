@@ -1,0 +1,11 @@
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\bin\Debug\netcoreapp2.2\HiCSharp.deps.json
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\bin\Debug\netcoreapp2.2\HiCSharp.runtimeconfig.json
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\bin\Debug\netcoreapp2.2\HiCSharp.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\bin\Debug\netcoreapp2.2\HiCSharp.dll
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\bin\Debug\netcoreapp2.2\HiCSharp.pdb
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\obj\Debug\netcoreapp2.2\HiCSharp.csprojAssemblyReference.cache
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\obj\Debug\netcoreapp2.2\HiCSharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\obj\Debug\netcoreapp2.2\HiCSharp.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\obj\Debug\netcoreapp2.2\HiCSharp.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\obj\Debug\netcoreapp2.2\HiCSharp.dll
+C:\Users\DELL\RiderProjects\HiCSharp\HiCSharp\obj\Debug\netcoreapp2.2\HiCSharp.pdb
